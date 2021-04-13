@@ -9,7 +9,7 @@ setup(
     author = 'Andriy Pankevych',
     author_email = 'a.pankevych@gmail.com',
     install_requires=[
-#		'pytest-testinfra',
+#		'pdb',
 		'httpx[http2]',	
 	],
 )
