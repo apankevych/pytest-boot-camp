@@ -2,9 +2,9 @@ import httpx
 
 class restcl(object):
 	
-	def __init__(self, hostname, port):
-		self.hostname = hostname
-		self.port = port
+	def __init__(self):
+		#self.hostname = hostname
+		#self.port = port
 		self.connect()
 		self.cl = None
 		
