@@ -1,2 +1,2 @@
 # pytest-boot-camp
-# Push test
+# Installation: pip install -e .

@@ -10,6 +10,7 @@ setup(
     author_email = 'a.pankevych@gmail.com',
     install_requires=[
 #		'pdb',
-		'httpx[http2]',	
+		'httpx[http2]',
+		'pymongo',	
 	],
 )
